@@ -14,7 +14,7 @@ def key_for_min_value(name_hash)
       return key
     end
   end
-
+nil
 end
 
 name_hash_temp = {"john1" => 20, "john2" => 10}
