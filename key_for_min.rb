@@ -6,5 +6,8 @@ def key_for_min_value(name_hash)
   puts name_array
   name_array.sort
   puts name_array
-  name_hash  
 end
+
+name_hash_temp = {"john1" => 20, "john2" => 10}
+
+key_for_min_value
