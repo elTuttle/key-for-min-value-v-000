@@ -10,4 +10,4 @@ end
 
 name_hash_temp = {"john1" => 20, "john2" => 10}
 
-key_for_min_value
+key_for_min_value(name_hash_temp)
