@@ -7,9 +7,7 @@ def key_for_min_value(name_hash)
     element
   end
 
-  puts name_array
   name_array = name_array.sort
-  puts name_array
 
   name_hash.each do |key, element|
     if element == name_array[0]
