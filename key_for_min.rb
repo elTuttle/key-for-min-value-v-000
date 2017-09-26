@@ -7,7 +7,7 @@ def key_for_min_value(name_hash)
     element
   end
   puts name_array
-  name_array.sort
+  name_array = name_array.sort
   puts name_array
 end
 
